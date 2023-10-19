@@ -10,9 +10,10 @@ L'application "Asgard Table Manager" a été crée pour faciliter le suivi des t
 
 Les membres de l'association ASGARD peuvent créer de nouvelles tables sur les catégories suivantes
 
-1. Jeux de plateaux
-2. Jeux de rôles
-3. Jeux de figurines / Wargame
+1. Jeux de cartes
+2. Jeux de plateaux
+3. Jeux de rôles
+4. Jeux de figurines / Wargame
 
 ## Lien d'accès {#getting-started-configuration}
 

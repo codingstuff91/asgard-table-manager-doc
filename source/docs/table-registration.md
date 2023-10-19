@@ -12,7 +12,7 @@ il faudra tout d'abord vous rendre sur la page listant la liste des tables d'une
 
 ## Inscription à une table
 
-Pour vous inscrire à une table ouverte, il vous suffit de cliquer sur l'icone ci-dessous.
+Pour vous inscrire à une table, il vous suffit de cliquer sur l'icone présente sur la carte représentant le jeu souhaité (voir ci-dessous)
 
 <img class="block m-auto" src="/assets/img/add-player.png" />
 
@@ -20,8 +20,13 @@ Pour vous inscrire à une table ouverte, il vous suffit de cliquer sur l'icone c
 
 ## Validation et envoi notification discord
 
-Une fois que vous aurez confirmé, votre nom dispapparaitra de la liste des joueurs inscrits.
+Une fois que vous aurez confirmé, votre nom apparaitra dans la liste des joueurs inscrits.
 
-Une notification discord sera envoyée sur le serveur discord.
+<img class="block m-auto" src="/assets/img/players-list.jpg" />
 
-L'objectif de cette notification est d'avertir l'organisateur de la table de votre désinscription.
+Une notification discord sera envoyée sur le serveur discord pour avertir l'organisateur de la table de votre inscription.
+
+Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
+
+<img class="block m-auto" src="/assets/img/user-registration-notification.jpg" />
+
