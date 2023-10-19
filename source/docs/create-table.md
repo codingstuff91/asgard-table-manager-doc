@@ -18,13 +18,15 @@ Ensuite il faudra cliquer sur le bouton "Ouvrir une table"
 
 <img class="block m-auto" src="/assets/img/new-table.png" alt="Screenshot of search results" />
 
-Les tables de jeux sont repartis en 4 catégories
+Les tables de jeux sont reparties en 4 catégories
 
 <img class="block m-auto" src="/assets/img/games-categories.png" alt="Screenshot of search results" />
 
 Choisissez d'abord une catégorie de jeux parmi l'une des 4 mentionnées ci-dessus
 
 Ensuite choisissez votre jeu parmi la liste des jeux (filtrée en fonction du choix précédent)
+
+> La liste des jeux sera actualisé en fonction de votre choix de catégorie
 
 Enfin, il faudra ensuite définir un nombre de joueurs maximum à votre table, définir un nombre de points (valable uniquement pour les jeux wargame) et enfin l'heure de début de la partie.
 
@@ -34,9 +36,7 @@ Pour finir, vous pouvez renseigner une description supplémentaire à votre tabl
 
 ## Ajouter un jeu inédit
 
-Si le jeu pour lequel vous souhaitez ouvrir une table n'existe pas dans la liste des jeux proposés, vous pouvez l'ajouter facilement
-
-Pour cela, il faut cliquer sur le bouton "Ajouter un jeu".
+Si le jeu pour lequel vous souhaitez ouvrir une table n'existe pas dans la liste des jeux proposés, vous pouvez l'ajouter en cliquant sur le bouton
 
 <img class="block m-auto" src="/assets/img/add-game.png" alt="Screenshot of search results" />
 
@@ -44,10 +44,15 @@ Il faudra alors sélectionner une catégorie de jeu et donner le titre du jeu co
 
 > Une fois cela fait vous serez redirigé vers la page de création de table.
 
-## Limite de joueurs maximum
-Soyez vigilants dans le nombre de joueurs maximum que vous préciserez.
+## Nombre de joueurs maximum
 
-Par la suite si le nombre maximum de joueurs est atteint, plus aucune inscription à la table ne sera possible.
+Soyez vigilants dans le nombre de joueurs maximum que vous renseignerez.
+
+Si le nombre maximum de joueurs est atteint, plus aucune inscription à la table ne sera possible.
+
+> A la création d'une table l'organisateur est automatiquement inscrit comme joueur.
+
+> N'oubliez pas de le prendre en compte lorsque vous saisissez le nombre de joueurs maximum de votre table.
 
 ## Validation et envoi notification discord
 
