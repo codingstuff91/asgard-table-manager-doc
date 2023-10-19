@@ -60,4 +60,6 @@ Si vous avez saisi toutes les informations demandées, la table sera créée dan
 
 Une notification sera envoyée sur le serveur discord automatiquement pour prévenir l'association ASGARD de l'ajout de votre nouvel table
 
+Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
+
 La notification comportera entre autres le nom du jeu, le nom de l'organisateur, la date de la table et l'heure de début.
