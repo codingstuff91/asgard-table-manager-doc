@@ -23,3 +23,5 @@ Une fois que vous aurez confirmé votre mise à jour, une notification sera envo
 Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
 
 Cette notification a pour but de prévenir les joueurs inscrits de la modification de votre table.
+
+<img class="block m-auto" src="/assets/img/update-table-notification.jpg" alt="Screenshot of search results" />

@@ -18,3 +18,5 @@ Si vous possédez la capacité de mettre à jour une table, vous devriez voir ap
 Une fois que vous aurez confirmé votre souhait de supprimer cette table, une notification sera envoyée sur le serveur discord.
 
 Cette notification a pour but de prévenir les joueurs inscrits à votre table de l'annulation de votre table.
+
+<img class="block m-auto" src="/assets/img/annulation-table.jpg" alt="Screenshot of search results" />

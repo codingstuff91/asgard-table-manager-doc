@@ -63,3 +63,6 @@ Une notification sera envoyée sur le serveur discord automatiquement pour prév
 Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
 
 La notification comportera entre autres le nom du jeu, le nom de l'organisateur, la date de la table et l'heure de début.
+
+<img class="block m-auto" src="/assets/img/table-created-notification.jpg" alt="Screenshot of search results" />
+
