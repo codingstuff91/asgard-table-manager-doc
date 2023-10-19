@@ -21,6 +21,4 @@ return [
     'Desincription de joueur' => [
         'url' => 'docs/table-unregistration',
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
-    'Example Docs' => 'https://jigsaw.tighten.co/docs/installation',
 ];
