@@ -21,4 +21,11 @@ return [
     'Desincription de joueur' => [
         'url' => 'docs/table-unregistration',
     ],
+    'Espace admin' => [
+        'children' => [
+            'Rechercher un jeu' => 'docs/admin/search-game',
+            'Créer un nouveau jeu' => 'docs/admin/create-game',
+            'Editer un jeu' => 'docs/admin/edit-game',
+        ],
+    ],
 ];
