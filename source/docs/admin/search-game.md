@@ -4,7 +4,7 @@ description: Getting started with Jigsaw's docs starter template is as easy as 1
 extends: _layouts.documentation
 section: content
 ---
-# Gestion des jeux
+# Rechercher des jeux
 
 Une fois dans l'espace admin cliquez sur le lien "Jeux" dans le menu latéral.
 
