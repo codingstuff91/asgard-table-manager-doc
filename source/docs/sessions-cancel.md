@@ -23,3 +23,8 @@ Par ex : les salles sont réservées pour un événement particulier empéchant 
 > Toutes les tables déjà crées pour cette session seront annulées
 
 > Une notification d'information sera envoyée sur le serveur Discord
+
+Une fois une session annulée, les utilisateurs pourront tout de même la consulter.
+Malgré cela, une message informatif apparaitra pour informer les utilisateur de l'annulation de la session.
+
+<img class="block m-auto" src="/assets/img/annulation-session-3.png" alt="Screenshot of search results" />
