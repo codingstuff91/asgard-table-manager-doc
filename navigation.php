@@ -6,6 +6,8 @@ return [
         'children' => [
             'Affichage des sessions' => 'docs/sessions-index',
             'Créer une session' => 'docs/sessions-create',
+            'Annulation de session' => 'docs/sessions-cancel',
+            'Restriction de session' => 'docs/sessions-restriction',
         ],
     ],
     'Gestion des tables' => [
