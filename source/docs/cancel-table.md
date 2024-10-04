@@ -8,9 +8,9 @@ section: content
 > Il n'y a que le créateur d'une table ou un admin qui possède la capacité d'annuler une table.
 
 ## Supprimer / Annuler une table
-Si vous possédez la capacité de mettre à jour une table, vous devriez voir apparaitre cette icone.
+Si vous possédez la capacité d'annuler une table, vous devriez voir apparaitre l'icone ci-dessous.
 
-<img class="block m-auto" src="/assets/img/cancel-table.png" />
+<img class="w-12 block m-auto" src="/assets/img/delete.png" />
 
 > Lorsque vous cliquerez sur l'icône de suppression, une confirmation vous sera demandée.
 

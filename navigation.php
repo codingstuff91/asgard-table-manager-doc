@@ -20,6 +20,7 @@ return [
     'Notifications DISCORD' => [
         'children' => [
             'Création de table' => 'docs/notifications/table-creation',
+            'Mise à jour de table' => 'docs/notifications/table-update',
             'Inscriptions / Désinscriptions de joueurs' => 'docs/notifications/user-registration',
         ],
     ],
