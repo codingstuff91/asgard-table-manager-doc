@@ -17,6 +17,12 @@ return [
             'Annuler une table' => 'docs/cancel-table',
         ],
     ],
+    'Notifications DISCORD' => [
+        'children' => [
+            'Création de table' => 'docs/notifications/table-creation',
+            'Inscriptions / Désinscriptions de joueurs' => 'docs/notifications/user-registration',
+        ],
+    ],
     'Inscription de joueur' => [
         'url' => 'docs/table-registration',
     ],
