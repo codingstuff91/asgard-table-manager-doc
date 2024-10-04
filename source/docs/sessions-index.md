@@ -8,11 +8,11 @@ section: content
 
 L'application regroupe les différentes tables de jeux par journée ou "sessions".
 
-L'ensemble des sessions disponibles est visible en cliquant sur le bouton "Sessions" du menu supérieur ou en se rendant sur le lien suivant [LIEN](http://table-manager.jeuf5892.odns.fr/days)
+L'ensemble des sessions disponibles est visible en cliquant sur le bouton **"Sessions"** du menu supérieur ou en se rendant sur le lien suivant [LIEN](http://table-manager.jeuf5892.odns.fr/days)
 
 Chaque session est représentée par une carte avec à droite le nombre de tables disponibles pour cette session, voir exemple ci-dessous
 
-<img class="block m-auto" src="/assets/img/sessions-index.png" />
+<img class="block m-auto" src="/assets/img/liste-sessions.jpg" />
 
 ## Consulter une session
 

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0df6e8-7465-4a48-a971-0c584a75f712" name="Changes" comment="Add day restriction documentation">
+    <list default="true" id="ee0df6e8-7465-4a48-a971-0c584a75f712" name="Changes" comment="Add new pages and images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/create-table.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/create-table.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/sessions-index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/sessions-index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,7 @@
       <workItem from="1716458382444" duration="528000" />
       <workItem from="1722120531021" duration="3917000" />
       <workItem from="1723650331820" duration="2214000" />
-      <workItem from="1728053671508" duration="2006000" />
+      <workItem from="1728053671508" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1697698203739</created>
@@ -258,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722122836332</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add new pages and images">
+      <option name="closed" value="true" />
+      <created>1728055772743</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728055772743</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +299,7 @@
     <MESSAGE value="Add cancel session page" />
     <MESSAGE value="Add iamges for cancel session page" />
     <MESSAGE value="Edit cancel session page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit cancel session page" />
+    <MESSAGE value="Add new pages and images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new pages and images" />
   </component>
 </project>

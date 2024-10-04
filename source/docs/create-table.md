@@ -8,19 +8,18 @@ section: content
 
 Pour connaitre l'ensemble des tables ouverte pour chaque session, il vous suffit de cliquer sur la date de la carte de la session qui vous interesse.
 
-<img class="block m-auto" src="/assets/img/sessions-index.png" alt="Screenshot of search results" />
 
 ## Création d'une nouvelle table d'un jeu existant
 
 Pour créer une nouvelle table, il faut d'abord se rendre sur la page d'affichage d'une session.
 
-Ensuite il faudra cliquer sur le bouton "Ouvrir une table"
+Ensuite il faudra cliquer sur le bouton **"Ouvrir une table"**
 
-<img class="block m-auto" src="/assets/img/new-table.png" alt="Screenshot of search results" />
+<img class="block m-auto" src="/assets/img/create-table-button.jpg" />
 
 Les tables de jeux sont reparties en 4 catégories
 
-<img class="block m-auto" src="/assets/img/games-categories.png" alt="Screenshot of search results" />
+<img class="block m-auto" src="/assets/img/liste-categories.jpg" alt="Screenshot of search results" />
 
 Choisissez d'abord une catégorie de jeux parmi l'une des 4 mentionnées ci-dessus
 
@@ -36,10 +35,10 @@ Pour finir, vous pouvez renseigner une description supplémentaire à votre tabl
 
 ## Ajouter un jeu inédit
 
-Si le jeu pour lequel vous souhaitez ouvrir une table n'existe pas dans la liste des jeux proposés, vous pouvez l'ajouter en cliquant sur le bouton
+Si le jeu pour lequel vous souhaitez ouvrir une table n'existe pas dans la liste des jeux proposés, vous pouvez l'ajouter 
+en cliquant sur le bouton **Ajouter un jeu**
 
-<img class="block m-auto" src="/assets/img/add-game.png" alt="Screenshot of search results" />
-
+<img class="block m-auto" src="/assets/img/ajouter-un-jeu.jpg" alt="Screenshot of search results" />
 Il faudra alors sélectionner une catégorie de jeu et donner le titre du jeu concerné.
 
 > Une fois cela fait vous serez redirigé vers la page de création de table.
@@ -60,9 +59,6 @@ Si vous avez saisi toutes les informations demandées, la table sera créée dan
 
 Une notification sera envoyée sur le serveur discord automatiquement pour prévenir l'association ASGARD de l'ajout de votre nouvel table
 
-Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
+Pour plus d'informations consultez cette page : [Lien](/docs/notifications/table-creation)
 
-La notification comportera entre autres le nom du jeu, le nom de l'organisateur, la date de la table et l'heure de début.
-
-<img class="block m-auto" src="/assets/img/table-created-notification.jpg" alt="Screenshot of search results" />
 
