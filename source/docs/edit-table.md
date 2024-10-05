@@ -12,6 +12,8 @@ Si vous avez le droit de mettre à jour une table, vous devriez voir l'icone ci-
 
 <img class="w-12 block m-auto" src="/assets/img/edit.png" />
 
+> Une confirmation vous sera demandé avant d'accéder au formulaire de mise à jour.
+
 Une fois que vous aurez cliqué sur l'icone le formulaire de mise à jour de cette table apparaitra, et les informations de la table seront pré-remplies dans le formulaire.
 
 ## Confirmation de la mise à jour
