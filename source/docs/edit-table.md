@@ -14,15 +14,17 @@ Si vous avez le droit de mettre à jour une table, vous devriez voir l'icone ci-
 
 > Une confirmation vous sera demandé avant d'accéder au formulaire de mise à jour.
 
-Une fois que vous aurez cliqué sur l'icone le formulaire de mise à jour de cette table apparaitra, et les informations de la table seront pré-remplies dans le formulaire.
+Une fois que vous aurez cliqué sur l'icone le formulaire de mise à jour apparaitra. 
+
+Les informations de la table seront pré-remplies dans le formulaire.
 
 ## Confirmation de la mise à jour
 Lorsque vous cliquerez sur le bouton **"Mettre à jour"** pour valider la mise à jour de votre table, une confirmation vous sera demandée.
 
 ## Validation et envoi notification discord
 
-Si vous avez saisi toutes les informations demandées, la table sera créée dans la base de données de l'application.
+Une fois toutes les informations demandées, la table sera mise à jour dans la base de données de l'application.
 
-Une notification sera envoyée sur le serveur discord automatiquement pour prévenir l'association ASGARD de la mise à jour de la table
+Une notification sera envoyée sur le serveur discord pour prévenir l'association ASGARD de la mise à jour de la table
 
 Pour plus d'informations consultez cette page : [Lien](/docs/notifications/table-update)
