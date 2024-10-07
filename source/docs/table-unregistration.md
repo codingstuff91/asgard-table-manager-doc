@@ -14,16 +14,14 @@ il faudra tout d'abord vous rendre sur la page listant la liste des tables d'une
 
 Pour vous désinscrire d'une table, il vous suffit de cliquer sur l'icone ci-dessous.
 
-<img class="block m-auto" src="/assets/img/remove-player.png" />
+<img class="w-16 block m-auto" src="/assets/img/delete-user.png" />
 
 > Lorsque vous cliquerez sur l'icône, une confirmation vous sera demandée.
 
 ## Validation et envoi notification discord
 
-Une fois que vous aurez confirmé, votre nom dispapparaitra de la liste des joueurs inscrits.
+Une fois que vous aurez confirmé, votre nom disparaitra de la liste des joueurs inscrits.
 
 Une notification discord sera envoyée sur le serveur discord pour avertir l'organisateur de la table de votre inscription.
 
-Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
-
-<img class="block m-auto" src="/assets/img/user-unregistration.jpg" />
+Pour plus d'informations consultez cette page : [Lien](/docs/notifications/user-registration)

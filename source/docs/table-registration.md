@@ -14,7 +14,7 @@ il faudra tout d'abord vous rendre sur la page listant la liste des tables d'une
 
 Pour vous inscrire à une table, il vous suffit de cliquer sur l'icone présente sur la carte représentant le jeu souhaité (voir ci-dessous)
 
-<img class="block m-auto" src="/assets/img/add-player.png" />
+<img class="w-16 block m-auto" src="/assets/img/add-user.png" />
 
 > Lorsque vous cliquerez sur l'icône, une confirmation vous sera demandée.
 
@@ -22,11 +22,9 @@ Pour vous inscrire à une table, il vous suffit de cliquer sur l'icone présente
 
 Une fois que vous aurez confirmé, votre nom apparaitra dans la liste des joueurs inscrits.
 
-<img class="block m-auto" src="/assets/img/players-list.jpg" />
+<img class="block m-auto" src="/assets/img/players-list.png" />
 
-Une notification discord sera envoyée sur le serveur discord pour avertir l'organisateur de la table de votre inscription.
+Une notification sera envoyée sur notre DISCORD pour informer de votre inscription.
 
-Cette notification sera envoyée dans le channel correspondant au jour où aura lieu votre table (Vendredi, Samedi, Dimanche ou autre jour).
-
-<img class="block m-auto" src="/assets/img/user-registration-notification.jpg" />
+Pour plus d'informations consultez cette page : [Lien](/docs/notifications/user-registration)
 
