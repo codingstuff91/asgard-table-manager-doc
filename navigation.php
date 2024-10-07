@@ -17,18 +17,18 @@ return [
             'Annuler une table' => 'docs/table/cancel',
         ],
     ],
+    'Inscriptions / Desinscriptions' => [
+        'children' => [
+            'S\'inscrire à une table' => 'docs/user/registration',
+            'Desinscription d\'une table' => 'docs/user/unregistration',
+        ],
+    ],
     'Notifications DISCORD' => [
         'children' => [
             'Création de table' => 'docs/notifications/table-creation',
             'Mise à jour de table' => 'docs/notifications/table-update',
             'Inscriptions / Désinscriptions de joueurs' => 'docs/notifications/user-registration',
         ],
-    ],
-    'Inscription de joueur' => [
-        'url' => 'docs/table-registration',
-    ],
-    'Desincription de joueur' => [
-        'url' => 'docs/table-unregistration',
     ],
     'Espace admin' => [
         'children' => [
