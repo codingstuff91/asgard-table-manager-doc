@@ -6,9 +6,8 @@ section: content
 ---
 # Mise à jour d'un jeu
 
-Si vous souhaitez mettre à jour parmi la liste, il vous suffira de cliquer sur le bouton "Editer" sur le jeu concerné parmi la liste de tous les jeux.
+Si vous souhaitez mettre à jour un jeu de la liste, il vous suffira de cliquer sur le bouton "Editer" du jeu concerné.
+
+> Vous pourrez modifier le nom du jeu et la catégorie à laquelle il est associé.
 
 <img class="block m-auto" src="/assets/img/admin/edit-game.png" />
-
-Vous pourrez par la suite, modifier la catégorie et le nom du jeu.
-

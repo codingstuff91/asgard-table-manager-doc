@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0df6e8-7465-4a48-a971-0c584a75f712" name="Changes" comment="Edit cancel session page">
-      <change beforePath="$PROJECT_DIR$/.idea/asgard-table-manager-doc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/asgard-table-manager-doc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="ee0df6e8-7465-4a48-a971-0c584a75f712" name="Changes" comment="Add missing images and links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/add-game.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/add-player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/cancel-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/edit-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/games-categories.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/new-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/remove-player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/img/sessions-index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/cancel-table.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/cancel-table.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/edit-table.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/edit-table.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,23 +99,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;add-cancel-and-warning-for-days&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matthieumartin/Sites/asgard-table-manager-doc/source/docs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "feature/discord-notifications-improvement",
+    "last_opened_file_path": "/Users/matthieumartin/Sites/asgard-table-manager-doc/source/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/assets/img" />
+      <recent name="$PROJECT_DIR$/source/docs/notifications" />
       <recent name="$PROJECT_DIR$/source/docs" />
       <recent name="$PROJECT_DIR$/source/docs/admin" />
       <recent name="$PROJECT_DIR$/source/assets/img/admin" />
@@ -156,6 +150,7 @@
       <workItem from="1716458382444" duration="528000" />
       <workItem from="1722120531021" duration="3917000" />
       <workItem from="1723650331820" duration="2214000" />
+      <workItem from="1728053671508" duration="4462000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1697698203739</created>
@@ -266,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722122836332</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add new pages and images">
+      <option name="closed" value="true" />
+      <created>1728055772743</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728055772743</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add missing images and links">
+      <option name="closed" value="true" />
+      <created>1728056797066</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728056797066</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +309,8 @@
     <MESSAGE value="Add cancel session page" />
     <MESSAGE value="Add iamges for cancel session page" />
     <MESSAGE value="Edit cancel session page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit cancel session page" />
+    <MESSAGE value="Add new pages and images" />
+    <MESSAGE value="Add missing images and links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add missing images and links" />
   </component>
 </project>

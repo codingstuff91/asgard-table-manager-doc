@@ -4,24 +4,31 @@ return [
     'Introduction' => 'docs/getting-started',
     'Gestion des sessions' => [
         'children' => [
-            'Affichage des sessions' => 'docs/sessions-index',
-            'Créer une session' => 'docs/sessions-create',
-            'Annulation de session' => 'docs/sessions-cancel',
-            'Restriction de session' => 'docs/sessions-restriction',
+            'Affichage des sessions' => 'docs/sessions/list',
+            'Créer une session' => 'docs/sessions/create',
+            'Annulation de session' => 'docs/sessions/cancel',
+            'Restriction de session' => 'docs/sessions/restriction',
         ],
     ],
     'Gestion des tables' => [
         'children' => [
-            'Créer une table' => 'docs/create-table',
-            'Mettre à jour une table' => 'docs/edit-table',
-            'Annuler une table' => 'docs/cancel-table',
+            'Créer une table' => 'docs/table/create',
+            'Mettre à jour une table' => 'docs/table/edit',
+            'Annuler une table' => 'docs/table/cancel',
         ],
     ],
-    'Inscription de joueur' => [
-        'url' => 'docs/table-registration',
+    'Inscriptions / Desinscriptions' => [
+        'children' => [
+            'S\'inscrire à une table' => 'docs/user/registration',
+            'Desinscription d\'une table' => 'docs/user/unregistration',
+        ],
     ],
-    'Desincription de joueur' => [
-        'url' => 'docs/table-unregistration',
+    'Notifications DISCORD' => [
+        'children' => [
+            'Création de table' => 'docs/notifications/table-creation',
+            'Mise à jour de table' => 'docs/notifications/table-update',
+            'Inscriptions / Désinscriptions de joueurs' => 'docs/notifications/user-registration',
+        ],
     ],
     'Espace admin' => [
         'children' => [

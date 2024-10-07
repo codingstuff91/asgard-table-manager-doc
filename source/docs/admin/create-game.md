@@ -6,7 +6,7 @@ section: content
 ---
 # Création d'un nouveau jeu
 
-Si vous souhaitez ajouter un nouveau jeu, il faudra cliquer sur le bouton "Nouveau Jeu"
+Si vous souhaitez ajouter un nouveau jeu, il faudra cliquer sur le bouton **"Nouveau Jeu"**
 
 Ensuite dans la nouvelle page qui apparaitra, vous devrez sélectionner une catégorie et le nom du jeu.
 
@@ -14,7 +14,7 @@ Ensuite dans la nouvelle page qui apparaitra, vous devrez sélectionner une cat�
 
 Une fois le jeu crée, vous serez redirigé vers la page d'accueil des jeux.
 
-> Vous accederez à cette page, y compris depuis le bouton "Ajouter un jeu" depuis la création d'une table
+> Vous accederez à cette page, y compris depuis le bouton **"Ajouter un jeu"** depuis la création d'une table
 
 > Si vous tentez de créer un jeu qui existe déjà vous obtiendrez une erreur
 

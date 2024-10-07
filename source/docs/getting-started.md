@@ -23,10 +23,14 @@ Cette application web est disponible via ce [LIEN](http://table-manager.jeuf5892
 
 Pour utiliser cette application vous devrez vous créer un compte en cliquant sur le bouton [INSCRIPTION](http://table-manager.jeuf5892.odns.fr/register)
 
-> Important : L'adresse mail qui vous sera demandée ne sera en aucun cas utilisée pour vous envoyer des mails.
+> Important : L'adresse mail que vous allez renseigner, ne sera pas utilisée pour vous envoyer des mails.
 
-### Connexion {#getting-started-adding-content}
+## Connexion
 
 Une fois votre compte crée, vous pourrez utiliser la plateforme en vous connectant via ce [LIEN](http://table-manager.jeuf5892.odns.fr/login)
 
-> Je vous recommande de cocher la case "Se souvenir de moi" si vous souhaitez que votre session soit sauvegardée, et ne plus avoir besoin de passer par ce formulaire pour être connecté.
+> Je vous recommande de cocher la case **"Se souvenir de moi"** si vous souhaitez que votre session soit sauvegardée.
+> Ainsi, vous n'aurez plus besoin de passer par ce formulaire pour vous connecter.
+
+<img class="block m-auto" src="/assets/img/remember-me.jpg" />
+
