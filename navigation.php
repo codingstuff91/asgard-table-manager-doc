@@ -4,10 +4,10 @@ return [
     'Introduction' => 'docs/getting-started',
     'Gestion des sessions' => [
         'children' => [
-            'Affichage des sessions' => 'docs/sessions-index',
-            'Créer une session' => 'docs/sessions-create',
-            'Annulation de session' => 'docs/sessions-cancel',
-            'Restriction de session' => 'docs/sessions-restriction',
+            'Affichage des sessions' => 'docs/sessions/list',
+            'Créer une session' => 'docs/sessions/create',
+            'Annulation de session' => 'docs/sessions/cancel',
+            'Restriction de session' => 'docs/sessions/restriction',
         ],
     ],
     'Gestion des tables' => [
