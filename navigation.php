@@ -12,9 +12,9 @@ return [
     ],
     'Gestion des tables' => [
         'children' => [
-            'Créer une table' => 'docs/create-table',
-            'Mettre à jour une table' => 'docs/edit-table',
-            'Annuler une table' => 'docs/cancel-table',
+            'Créer une table' => 'docs/table/create',
+            'Mettre à jour une table' => 'docs/table/edit',
+            'Annuler une table' => 'docs/table/cancel',
         ],
     ],
     'Notifications DISCORD' => [
