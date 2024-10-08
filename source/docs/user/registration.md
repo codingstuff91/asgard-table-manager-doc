@@ -12,11 +12,15 @@ il faudra tout d'abord vous rendre sur la page listant la liste des tables d'une
 
 ## Inscription à une table
 
-Pour vous inscrire à une table, il vous suffit de cliquer sur l'icone présente sur la carte représentant le jeu souhaité (voir ci-dessous)
+Pour vous inscrire à une table, cliquez sur l'icône présente sur la table désirée (voir ci-dessous)
 
 <img class="w-16 block m-auto" src="/assets/img/add-user.png" />
 
 > Lorsque vous cliquerez sur l'icône, une confirmation vous sera demandée.
+
+> Si vous voyez l'icone ci-dessous c'est que la table est complète
+
+<img class="w-16 block m-auto" src="/assets/img/stop.png" />
 
 ## Validation et envoi notification discord
 
