@@ -10,8 +10,9 @@ section: content
 
 ## Emplacement de la notification
 
-Toute mise à jour de la table sera visible dans le fil de discussion généré lors de la création de la table.
+A l'issue de la mise à jour de votre table, la notification principale de création de la table sera actualisée avec les
+informations que vous aurez saisis.
 
-Pour cela il faut cliquer sur le bouton **"Inscriptions et mises à jour"**  ou **voir le fil** (voir images ci-dessous)
+De plus, une notification sera ajoutée pour prévenir les utilisateurs concernant la mise à jour de votre table.
 
-<img class="block m-auto" src="/assets/img/notification-creation-table.jpg" />
+<img class="block m-auto" src="/assets/img/notification_table_update.jpg" />
