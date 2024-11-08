@@ -15,8 +15,10 @@ Si vous possédez la capacité d'annuler une table, vous devriez voir apparaitre
 > Lorsque vous cliquerez sur l'icône de suppression, une confirmation vous sera demandée.
 
 ## Validation et envoi notification discord
-Une fois que vous aurez confirmé votre souhait de supprimer cette table, une notification sera envoyée sur le serveur discord.
+Une fois que vous aurez confirmé votre souhait d'annuler votre table, une notification sera envoyée sur le serveur discord (voir exemple ci-dessous)
 
 Cette notification a pour but de prévenir les joueurs inscrits à votre table de l'annulation de votre table.
+
+> Lorsqu'une table est annulée, le message DISCORD de création de cette table sera supprimé.
 
 <img class="block m-auto" src="/assets/img/annulation-table.jpg" alt="Screenshot of search results" />
